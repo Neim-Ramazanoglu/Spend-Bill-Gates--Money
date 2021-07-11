@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .card {
+    margin: .5rem;
+    padding: 1rem;
+    background: rgb(176, 179, 45)
+  }
+
+  .card-img-top {
+      margin: -0.7rem;
+      border:5px solid #555;
+      
+  }
